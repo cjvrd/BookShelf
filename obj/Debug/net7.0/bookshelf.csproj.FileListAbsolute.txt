@@ -1,0 +1,45 @@
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.exe
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.deps.json
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.runtimeconfig.json
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.dll
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.pdb
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.csproj.AssemblyReference.cache
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.AssemblyInfoInputs.cache
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.AssemblyInfo.cs
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.csproj.CoreCompileInputs.cache
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.dll
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\refint\bookshelf.dll
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.pdb
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.genruntimeconfig.cache
+C:\Users\cjvir\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\ref\bookshelf.dll
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.exe
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.deps.json
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.runtimeconfig.json
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.dll
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\bin\Debug\net7.0\bookshelf.pdb
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.AssemblyInfo.cs
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.dll
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\refint\bookshelf.dll
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.pdb
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\bookshelf.genruntimeconfig.cache
+C:\Users\User\OneDrive - Deakin University\C# code\Bookshelf\obj\Debug\net7.0\ref\bookshelf.dll
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\bin\Debug\net7.0\bookshelf.exe
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\bin\Debug\net7.0\bookshelf.deps.json
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\bin\Debug\net7.0\bookshelf.runtimeconfig.json
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\bin\Debug\net7.0\bookshelf.dll
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\bin\Debug\net7.0\bookshelf.pdb
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.csproj.AssemblyReference.cache
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.AssemblyInfoInputs.cache
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.AssemblyInfo.cs
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.csproj.CoreCompileInputs.cache
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.dll
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\refint\bookshelf.dll
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.pdb
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\bookshelf.genruntimeconfig.cache
+C:\Users\cjvir\OneDrive - Deakin University\2023\t1 2023\sit771\c# code\bookshelf\obj\Debug\net7.0\ref\bookshelf.dll
